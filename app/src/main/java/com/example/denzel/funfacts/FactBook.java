@@ -9,13 +9,14 @@ public class FactBook {
 
         //Member variables
         String facts[] = {
-                "Fact 1",
-                "Fact 2",
-                "Fact 3",
-                "Fact 4",
-                "Fact 5",
-                "Fact 6",
-                "Fact 7"
+                "Nirmel picks his nose",
+                "Jesus Christ is my nigga",
+                "Fetty Wrap has a glauc in his 'rari",
+                "Fetty Wrap can't read 1738 properly",
+                "etc etc etc",
+                "test test test",
+                "Fetty Wrap has got this soda",
+                "Lexus C300"
         };
 
         String fact = "";
